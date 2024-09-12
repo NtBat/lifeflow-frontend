@@ -3,7 +3,6 @@ import { Button } from "./ui/button";
 import { DialogTrigger } from "./ui/dialog";
 import { Progress, ProgressIndicator } from "./ui/progress-bar";
 import { Separator } from "./ui/separator";
-import { OutlineButton } from "./ui/outline-button";
 import { LifeflowIcon } from "./lifeflow-icon";
 import { useQuery, useQueryClient } from "@tanstack/react-query";
 import { getSummary } from "../http/get-summary";
